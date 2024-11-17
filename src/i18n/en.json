@@ -1,0 +1,13 @@
+{
+    "home": "Home",
+    "settings": "Settings",
+    "information": "Information",
+    "statistic": "Statistic",
+    "taskList": "Task list",
+    "newTask": "New task",
+    "btn": {
+        "addTask" : "Add task",
+        "close" : "Close"
+    },
+    "textareaLabel": "Write a new task"
+}
